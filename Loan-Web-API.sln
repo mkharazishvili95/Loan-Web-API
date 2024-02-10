@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loan-Web-API", "Loan-Web-API\Loan-Web-API.csproj", "{7DBA75AF-F344-4F88-9D66-F9788821A809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loan-Web-API-Tests", "Loan-Web-API-Tests\Loan-Web-API-Tests.csproj", "{7A35C538-201E-403B-A171-726CE6C74E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DBA75AF-F344-4F88-9D66-F9788821A809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBA75AF-F344-4F88-9D66-F9788821A809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBA75AF-F344-4F88-9D66-F9788821A809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBA75AF-F344-4F88-9D66-F9788821A809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A35C538-201E-403B-A171-726CE6C74E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A35C538-201E-403B-A171-726CE6C74E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A35C538-201E-403B-A171-726CE6C74E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A35C538-201E-403B-A171-726CE6C74E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1282B33E-ABCC-41BC-B60F-7AD49917C4A2}
+	EndGlobalSection
+EndGlobal
